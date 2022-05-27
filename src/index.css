@@ -1,0 +1,11 @@
+/* Import Font Soleil */
+@import url("https://use.typekit.net/xgd1mif.css");
+
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  font-family: soleil, sans-serif;
+  text-decoration: none;
+  list-style: none;
+}
