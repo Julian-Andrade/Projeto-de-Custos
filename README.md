@@ -1,13 +1,15 @@
 ## Projeto de Gerenciamento de Projeto 
 
-<p>Criação de um projeto em React para gerenciamento de projetos</p>
+<p>Desenvolvido com intuito de estudar a tecnologia React. Neste desenvolvimento é possível adicionar novos projetos e gerenciá-los dinamicamente através da própria interface mostrada ao usuário (acompanhar, editar e excluir). Foram utilizadas tecnologias externas para auxilio, como, banco de dados json, integração com API, react-router, react-icons, react-hooks.</p>
+
+<p>Este projeto foi criado com auxilio do curso de React do professor Mateus Battisti - https://github.com/matheusbattisti </p> 
 
 ## Tecnologias Utilizadas
 
-<p>React</p>
-<p>React Router</p>
-<p>React Icons<p>
-<p>React Hook</p>
-<p>integração com uuidv4 para criação de id's</p>
-<p>integração de um banco de dados em JSON</p>
-<p>integração com API</p>
+- React</p>
+- React Router</p>
+- React Icons<p>
+- React Hook</p>
+- integração com uuidv4 para criação de id's</p>
+- integração de um banco de dados em JSON</p>
+- integração com API
